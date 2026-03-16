@@ -1,0 +1,7 @@
+fastapi
+scikit-learn
+pandas
+numpy
+sqlalchemy
+"boto3" # For AWS SDK
+"google-cloud-storage" # For Google Cloud Storage
